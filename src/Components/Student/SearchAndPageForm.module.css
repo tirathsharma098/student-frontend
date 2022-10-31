@@ -1,0 +1,27 @@
+.search-entries-form{
+    display: flex;
+    justify-content: space-between;
+}
+.display-total-entries {
+    display: flex;
+    font-size: 22px;
+}
+
+.display-total-entries select{
+    height: 32px;
+}
+
+.search-student-container{
+    display: flex;
+    font-size: 22px;
+}
+
+.search-text{
+    align-self: center;
+}
+
+.search-control{
+    align-self: center;
+    height: 25px;
+    width: 100px;
+}
