@@ -1,0 +1,13 @@
+
+.bulk-action-form > *:not(:first-child) {
+    margin-left: 10px;
+}
+
+.bulk-action-form {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.bulk-action-form .action-submit{
+    font-weight: 600;
+}

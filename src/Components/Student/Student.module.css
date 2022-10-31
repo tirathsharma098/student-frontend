@@ -1,0 +1,13 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Sarabun', sans-serif;
+}
+
+.header h2{
+    font-size: 24px;
+}
+
+.header button{
+    width: 120px;
+}
