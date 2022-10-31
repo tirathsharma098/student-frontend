@@ -1,0 +1,22 @@
+.export-container{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5px;
+}
+
+.export-form > *:not(:first-child) {
+    margin-left: 10px;
+}
+
+.export-form{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.all-export-btn{
+    display: flex;
+}
+
+.all-export-btn button{
+    align-self: center;
+}
